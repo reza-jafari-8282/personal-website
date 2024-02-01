@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.6399056f.css",
-    "main.js": "./static/js/main.79069556.js",
-    "static/media/backend.pdf": "./static/media/backend.fba2e79f08594e2267c2.pdf",
-    "static/media/frontend.pdf": "./static/media/frontend.86e9e30da64f973c0e2d.pdf",
-    "static/media/mobile.pdf": "./static/media/mobile.a39549e949ad5002d2e6.pdf",
+    "main.js": "./static/js/main.cfc62e6e.js",
     "static/media/flutter-logo-4k-qn-min.jpg": "./static/media/flutter-logo-4k-qn-min.f50fe80a7f56f8fb9df9.jpg",
     "static/media/backend-technology-concept-with-glowing-lines-background_1017-28405-min.png": "./static/media/backend-technology-concept-with-glowing-lines-background_1017-28405-min.f7cca7479f670598a433.png",
     "static/media/b2-min.jpg": "./static/media/b2-min.eb57865f9821dd1698fa.jpg",
+    "static/media/backend.pdf": "./static/media/backend.67b51c2727d97f091976.pdf",
+    "static/media/frontend.pdf": "./static/media/frontend.8ef05b16e05c3fe30016.pdf",
+    "static/media/mobile.pdf": "./static/media/mobile.ff952474b43cc2bfd4c0.pdf",
     "index.html": "./index.html"
   },
   "entrypoints": [
     "static/css/main.6399056f.css",
-    "static/js/main.79069556.js"
+    "static/js/main.cfc62e6e.js"
   ]
 }
